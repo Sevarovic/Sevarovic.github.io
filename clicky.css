@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+
+.thewin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.thewin a {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 184, 251);
+    text-decoration: none;
+}
+
+.thewin a:hover {
+    color: rgb(85, 39, 209);
+}
